@@ -1,16 +1,16 @@
 <p align="center"> 🚀 𝗪𝗵𝗶𝗰𝗵 𝗶𝘀 𝗧𝗲𝗹𝗲𝘁𝗵𝗼𝗻 𝗕𝗮𝘀𝗲𝗱 🚀</p>
 <p align="left">
-  <a href="https://github.com/alexshere/alexs-userbot/fork"><img src="https://img.shields.io/github/forks/alexshere/alexs-userbot?label=Fork&style=social"></a>
+  <a href="https://github.com/vckyou/Geez-UserBot/fork"><img src="https://img.shields.io/github/forks/vckyou/Geez-UserBot?label=Fork&style=social"></a>
   </p>
 <p align="left">
-  <a href="https://github.com/alexshere/alexs-userbot"><img src="https://img.shields.io/github/stars/alexshere/alexs-userbot?style=social"></a>
+  <a href="https://github.com/vckyou/Geez-UserBot"><img src="https://img.shields.io/github/stars/vckyou/Geez-UserBot?style=social"></a>
   </p>
 <p align="left">
-  <a href="https://github.com/alexshere/alexs-userbot/blob/alexs-userbot/LICENSE"><img src="https://img.shields.io/github/license/alexshere/alexs-userbot?&style=social&logo=github">
+  <a href="https://github.com/vckyou/Geez-UserBot/blob/Geez-UserBot/LICENSE"><img src="https://img.shields.io/github/license/vckyou/Geez-UserBot?&style=social&logo=github">
   </a></p>
 
-![VIEWS](https://komarev.com/ghpvc/?username=alexshere)
-![Repo Size](https://img.shields.io/github/repo-size/alexshere/alexs-userbot?&style=plastic&logo=github)
+![VIEWS](https://komarev.com/ghpvc/?username=vckyou)
+![Repo Size](https://img.shields.io/github/repo-size/vckyou/Geez-UserBot?&style=plastic&logo=github)
 [![GitHub issues](https://img.shields.io/github/issues/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://github.com/vckyou/Geez-UserBot/issues)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://github.com/vckyou/Geez-UserBot/graphs/commit-activity)
 [![GitHub contributors](https://img.shields.io/github/contributors/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://GitHub.com/vckyou/Geez-UserBot/graphs/contributors/)

@@ -29,8 +29,8 @@
 <a href="https://t.me/joinsenyawa"><img src="https://img.shields.io/badge/Join-Grup%20Mutualan-magenta.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/egishcircle"><img src="https://img.shields.io/badge/Join-Grup%20Circle-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-## ⚡alexs-userbot
-![Alexs Userbot](https://telegra.ph/file/9464f116132df37c649c8.png)
+## ⚡Geez-UserBot
+![Geez UserBot](https://telegra.ph/file/9464f116132df37c649c8.png)
 
 <h3 align="center">Userbot punya alexs, tapi gatau buat apaan.</h3>
 <p align="center">&nbsp;</p>

@@ -1,24 +1,24 @@
 <p align="center"> 🚀 𝗪𝗵𝗶𝗰𝗵 𝗶𝘀 𝗧𝗲𝗹𝗲𝘁𝗵𝗼𝗻 𝗕𝗮𝘀𝗲𝗱 🚀</p>
 <p align="left">
-  <a href="https://github.com/vckyou/Geez-UserBot/fork"><img src="https://img.shields.io/github/forks/vckyou/Geez-UserBot?label=Fork&style=social"></a>
+  <a href="https://github.com/alexshere/alexs-userbot/fork"><img src="https://img.shields.io/github/forks/alexshere/alexs-userbot?label=Fork&style=social"></a>
   </p>
 <p align="left">
-  <a href="https://github.com/vckyou/Geez-UserBot"><img src="https://img.shields.io/github/stars/vckyou/Geez-UserBot?style=social"></a>
+  <a href="https://github.com/alexshere/alexs-userbot"><img src="https://img.shields.io/github/stars/alexshere/alexs-userbot?style=social"></a>
   </p>
 <p align="left">
-  <a href="https://github.com/vckyou/Geez-UserBot/blob/Geez-UserBot/LICENSE"><img src="https://img.shields.io/github/license/vckyou/Geez-UserBot?&style=social&logo=github">
+  <a href="https://github.com/alexshere/alexs-userbot/blob/alexs-userbot/LICENSE"><img src="https://img.shields.io/github/license/alexshere/alexs-userbot?&style=social&logo=github">
   </a></p>
 
-![VIEWS](https://komarev.com/ghpvc/?username=vckyou)
-![Repo Size](https://img.shields.io/github/repo-size/vckyou/Geez-UserBot?&style=plastic&logo=github)
+![VIEWS](https://komarev.com/ghpvc/?username=alexshere)
+![Repo Size](https://img.shields.io/github/repo-size/alexshere/alexs-userbot?&style=plastic&logo=github)
 [![GitHub issues](https://img.shields.io/github/issues/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://github.com/vckyou/Geez-UserBot/issues)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://github.com/vckyou/Geez-UserBot/graphs/commit-activity)
 [![GitHub contributors](https://img.shields.io/github/contributors/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://GitHub.com/vckyou/Geez-UserBot/graphs/contributors/)
 [![PR Open](https://img.shields.io/github/issues-pr/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://github.com/Vckyou/Geez-UserBot/pulls)
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://github.com/vckyou/Geez-UserBot/pulls?q=is:closed)
 <p align="justify">
-<a href="https://github.com/vckyou/Geez-UserBot/commits/Geez-UserBot"><img src="https://img.shields.io/github/last-commit/vckyou/Geez-UserBot?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-<a href="https://github.com/vckyou/Geez-UserBot/actions/workflows/main.yml"><img src="https://img.shields.io/github/workflow/status/vckyou/Geez-UserBot/CI/Geez-UserBot?style=for-the-badge&logo=github-actions&logoColor=aqua" alt="CI" /></a>
+<a href="https://github.com/alexshere/alexs-userbot/commits/alexs-userbot"><img src="https://img.shields.io/github/last-commit/alexshere/alexs-userbot?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+<a href="https://github.com/alexshere/alexs-userbot/actions/workflows/main.yml"><img src="https://img.shields.io/github/workflow/status/alexshere/alexs-userbot/CI/alexs-userbot?style=for-the-badge&logo=github-actions&logoColor=aqua" alt="CI" /></a>
 </p>
 <p align="justify">
 <a href="https://pypi.org/project/Telethon/"><img src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
@@ -26,13 +26,13 @@
 </p>
 <p align="left">
 </p>
-<a href="https://t.me/GeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group1%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/VcgSupportGroup"><img src="https://img.shields.io/badge/Join-Group2%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinsenyawa"><img src="https://img.shields.io/badge/Join-Grup%20Mutualan-magenta.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/egishcircle"><img src="https://img.shields.io/badge/Join-Grup%20Circle-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-## ⚡Geez-UserBot
-![Geez UserBot](https://telegra.ph/file/9464f116132df37c649c8.png)
+## ⚡alexs-userbot
+![Alexs Userbot](https://telegra.ph/file/9464f116132df37c649c8.png)
 
-<h3 align="center">Userbot Used for Fun on Telegram, and for Maintianing Your Group.</h3>
+<h3 align="center">Userbot punya alexs, tapi gatau buat apaan.</h3>
 <p align="center">&nbsp;</p>
 
 

@@ -1,6 +1,6 @@
 {
-  "name": "⚡𝗚𝗲𝗲𝘇 𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡",
-  "description": "🚫Geez-UserBot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "⚡ａｌｅｘｓ UserBot⚡",
+  "description": "🚫alexs-userbot🚫 INI USERBOT GATAU BUAT APAAN.",
   "logo": "",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Vckyou/Geez-UserBot",
-  "telegram": "https://t.me/VckyouuBitch",
-  "success_url": "https://t.me/CariTemanRandom",
+  "repository": "https://github.com/alexshere/alexs-userbot",
+  "telegram": "https://t.me/dontpresss",
+  "success_url": "https://t.me/joinsenyawa",
   "stack": "container",
   "env": {
     "API_KEY": {
